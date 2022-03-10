@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807120385641",
+    "project_id": "paragon-health-3959a",
+    "storage_bucket": "paragon-health-3959a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807120385641:android:dbecdd683111bfc3b614f8",
+        "android_client_info": {
+          "package_name": "com.example.paragonhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807120385641-b4g4rndhujnkesp8spfhu170mdu4fhtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQBUhq08_9TpVy8veXfxlHzdor-oBDN2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807120385641-b4g4rndhujnkesp8spfhu170mdu4fhtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
